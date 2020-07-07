@@ -1,6 +1,6 @@
                                                    ##################################
                                                    #       Simple Number Reader     #
-                                                   #		using *TF*        #
+                                                   #		using *TF*     #
                                                    ##################################
 
 			%This Code contains as ipynb File which is the source code for a Number Reader using Tensorflow and Keras.%
